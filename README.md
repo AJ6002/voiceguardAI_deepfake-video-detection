@@ -47,3 +47,6 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+
+
+Licensed under the MIT License.
